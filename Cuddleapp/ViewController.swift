@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  Cuddleapp
-//
-//  Created by Finley Sampson on 20/11/2018.
-//  Copyright © 2018 Finley Sampson. All rights reserved.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
